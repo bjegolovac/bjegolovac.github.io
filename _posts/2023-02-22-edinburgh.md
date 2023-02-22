@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Malta - Divlja gradnja i luda vožnja"
+title:  "Edinburgh - Grad dvorac"
 author: bjegolovac
 categories: [ Europa ]
-tags: [ putopis, obitelj, malta ]
+tags: [ putopis, obitelj, uk ]
 image: assets/images/16.jpg
 featured: true
 ---
-Malta
+Edinburgh
 
 ## Kako do tamo
 Nešto

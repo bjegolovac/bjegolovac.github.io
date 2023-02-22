@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Malta - Divlja gradnja i luda vožnja"
+title:  "Manchester - Ništa posebno"
 author: bjegolovac
 categories: [ Europa ]
-tags: [ putopis, obitelj, malta ]
+tags: [ putopis, obitelj, uk ]
 image: assets/images/16.jpg
-featured: true
 ---
-Malta
+Manchester
 
 ## Kako do tamo
 Nešto
